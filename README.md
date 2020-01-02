@@ -46,3 +46,5 @@ yo my boy.
 its great to be a part of it
 
 MODIFYING FILES!
+
+**Itong training repo ay para sa aking tula tungkol sa bahaghari
